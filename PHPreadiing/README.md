@@ -1,4 +1,4 @@
-##2、PHPreading
+#PHPreading
 1. 存在代码泄露，直接访问index.php.bak即可下载源码。
 2. 源码如下：
 ```php
