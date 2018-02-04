@@ -26,9 +26,9 @@
 |[BaSO4](https://github.com/WangYihang/SniperOJ-WriteUps/tree/master/misc/misc100-baso4)|MISC|100|[WriteUP](https://github.com/WangYihang/SniperOJ-WriteUps/blob/master/misc/misc100-baso4/decode_32_64.py)|[@WangYihang](https://github.com/wangyihang)|
 |PHPReading|WEB||||
 |BabyLeakage|WEB||||
-|BabyInjection|WEB||||
+|[BabyInjection](https://github.com/7Hxz233/2018-HITCTF-Challenges/tree/master/BabyInjection)|WEB|200|[WriteUP](https://github.com/7Hxz233/2018-HITCTF-Challenges/blob/master/BabyInjection/BabyQuery%26Injection.md)|lnyas|
 |小电影|WEB||||
 |SecurePY|WEB||||
-|BabyQuery|WEB||||
+|[BabyQuery](https://github.com/7Hxz233/2018-HITCTF-Challenges/tree/master/BabyQuery)|WEB|300|[WriteUP](https://github.com/7Hxz233/2018-HITCTF-Challenges/blob/master/BabyInjection/BabyQuery%26Injection.md)|lnyas|
 |[BabyEval](https://github.com/WangYihang/SniperOJ-WriteUps/tree/master/web/web150-babyeval/src)|WEB|150|[WriteUP](https://github.com/WangYihang/SniperOJ-WriteUps/tree/master/web/web150-babyeval/solution)|[@WangYihang](https://github.com/wangyihang)|
 |[BabyWrite](https://github.com/WangYihang/SniperOJ-WriteUps/tree/master/web/web300-babywrite/src)|WEB|300|[WriteUP](https://github.com/WangYihang/SniperOJ-WriteUps/tree/master/web/web300-babywrite/solution)|[@WangYihang](https://github.com/wangyihang)|
